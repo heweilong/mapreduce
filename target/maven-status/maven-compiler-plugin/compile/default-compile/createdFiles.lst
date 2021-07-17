@@ -1,0 +1,4 @@
+com\cn\wailian\service\FlowMapper.class
+com\cn\wailian\service\FlowReduce.class
+com\cn\wailian\entity\FlowBean.class
+com\cn\wailian\FlowSumRunner.class
